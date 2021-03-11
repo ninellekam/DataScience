@@ -1,5 +1,5 @@
 # DATA SCIENCE
-![alt text](max	 "Описание будет тут")​
+![alt text](data.png "Описание будет тут")​
 ## Python, Jyputer Notebooks
 ### Here used:
 - Pandas
